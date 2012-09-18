@@ -1,0 +1,2 @@
+What are Indexes?
+You can think of an index in MongoDB, or its relational counterparts, like a book index. If you're looking for a specific topic in a textbook without an index, your only option is to flip through every page to see if that page matches your interests. Depending on the size of the book, this can get tedious and time-consuming. MongoDB has to do the same thing when you query a collection: each document in the collection has to be examined and matches are added to the result set.
